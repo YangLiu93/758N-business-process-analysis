@@ -1,0 +1,23 @@
+h1 {
+	color: white;
+	font-family: Helvetica;
+}
+
+a {
+	color: white;
+}
+
+th {
+	color: white;
+	font-family: Helvetica;
+}
+
+td {
+	color: white;
+	font-family: Helvetica;
+}
+
+footer {
+	height: 10%;
+	clear: both;
+}
